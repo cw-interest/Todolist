@@ -1,0 +1,13 @@
+C:\Source_Code\etiqa\todolist\todolist\bin\Debug\netcoreapp2.1\todolist.deps.json
+C:\Source_Code\etiqa\todolist\todolist\bin\Debug\netcoreapp2.1\todolist.runtimeconfig.json
+C:\Source_Code\etiqa\todolist\todolist\bin\Debug\netcoreapp2.1\todolist.runtimeconfig.dev.json
+C:\Source_Code\etiqa\todolist\todolist\bin\Debug\netcoreapp2.1\todolist.dll
+C:\Source_Code\etiqa\todolist\todolist\bin\Debug\netcoreapp2.1\todolist.pdb
+C:\Source_Code\etiqa\todolist\todolist\obj\Debug\netcoreapp2.1\todolist.csproj.CoreCompileInputs.cache
+C:\Source_Code\etiqa\todolist\todolist\obj\Debug\netcoreapp2.1\todolist.RazorAssemblyInfo.cache
+C:\Source_Code\etiqa\todolist\todolist\obj\Debug\netcoreapp2.1\todolist.RazorAssemblyInfo.cs
+C:\Source_Code\etiqa\todolist\todolist\obj\Debug\netcoreapp2.1\todolist.AssemblyInfoInputs.cache
+C:\Source_Code\etiqa\todolist\todolist\obj\Debug\netcoreapp2.1\todolist.AssemblyInfo.cs
+C:\Source_Code\etiqa\todolist\todolist\obj\Debug\netcoreapp2.1\todolist.RazorTargetAssemblyInfo.cache
+C:\Source_Code\etiqa\todolist\todolist\obj\Debug\netcoreapp2.1\todolist.dll
+C:\Source_Code\etiqa\todolist\todolist\obj\Debug\netcoreapp2.1\todolist.pdb
